@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counting Until I Find Jenny</string>
+    <string name="value">0</string>
+    <string name="clearVal">Clear</string>
+    <string name="incrementVal">+1</string>
+    <string name="decrementVal">-1</string>
+    <string name="wow">Call Jenny</string>
+
+</resources>
